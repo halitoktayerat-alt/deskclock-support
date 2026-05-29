@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DeskClock - Support</title>
+<style>
+  body { font-family: -apple-system, sans-serif; max-width: 600px; margin: 60px auto; padding: 0 20px; color: #333; }
+  h1 { font-size: 28px; } h2 { font-size: 18px; margin-top: 40px; }
+  p { line-height: 1.7; color: #555; }
+</style>
+</head>
+<body>
+<h1>🕐 DeskClock</h1>
+<p>A simple fullscreen digital clock for iPhone and iPad. The screen stays on while the app is open — perfect as a desk display.</p>
+
+<h2>Support / Destek</h2>
+<p>For support, contact: <a href="mailto:halitoktayerat@gmail.com">halitoktayerat@gmail.com</a></p>
+
+<h2>Privacy Policy / Gizlilik</h2>
+<p>DeskClock does not collect, store, or share any personal data. No location, no tracking, no analytics.</p>
+<p>DeskClock hiçbir kişisel veri toplamaz, saklamaz veya paylaşmaz.</p>
+
+<p style="margin-top:60px; color:#aaa; font-size:13px;">© 2026 Halit Oktay Erat</p>
+</body>
+</html>
